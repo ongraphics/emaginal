@@ -1,0 +1,10 @@
+#u75
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #000000 url("../images/vinirta%20low.jpg") no-repeat left center;
+	background-size: contain;
+}
+
